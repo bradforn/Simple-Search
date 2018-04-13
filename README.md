@@ -1,3 +1,5 @@
+The live current version of this site can be found at http://162.243.139.201:3000/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
